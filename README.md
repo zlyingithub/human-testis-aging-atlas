@@ -1,7 +1,7 @@
 # human-testis-aging-atlas
-scRNA-seq data from 4 old men (2 health old men and 2 LOH patients) and its related process code.
+scRNA-seq data from 3 young and 4 old men (3 health young men, 2 health old men and 2 LOH patients) and its related process code.
 
-This data contains 54568 cells from 7 human samples.
+This data contains 35,576 cells from 7 human samples.
 
 All coded in this study were based on Seurat R package, see https://satijalab.org/seurat/v3.2/pbmc3k_tutorial.html
 
